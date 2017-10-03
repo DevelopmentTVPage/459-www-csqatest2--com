@@ -1,0 +1,23 @@
+{
+    "title": "Channel 9 - Delete Bulk 2",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1506995935",
+    "date_modified": "1506997059",
+    "tags": null,
+    "sourceId": null,
+    "status": "pending",
+    "visibility": "1",
+    "id": "117406306",
+    "loginId": "1759034",
+    "entityType": "3",
+    "titleTextEncoded": "Channel-10-Delete-Bulk-10",
+    "category": null,
+    "duration": null,
+    "settings": {
+        "canvasImage": "default_canvas3.jpg",
+        "colorClass": "light",
+        "canvasType": "gallery"
+    },
+    "transcripts": null
+}
